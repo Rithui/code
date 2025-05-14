@@ -1,0 +1,8 @@
+project:
+  name: Git PR Demo
+  version: 1.0.0
+  contributors:
+    - name: Rithuik Prakash
+      role: Maintainer
+    - name: Contributor 1
+      role: Developer
